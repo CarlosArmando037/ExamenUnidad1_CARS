@@ -79,6 +79,7 @@ namespace ExamenUnidad1_CARS.Clases
                     return "listo";
                 }
                 respuesta = numero1 * count;
+                
 
             }
             else if(numero1 == 3)
